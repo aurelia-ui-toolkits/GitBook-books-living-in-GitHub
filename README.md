@@ -17,10 +17,9 @@ Image 1
 This should result with the **`Create a new book`** dialog: (Image 2 below)
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19396536/95b533fa-9211-11e6-8c0c-1efb3ecb095e.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19396808/db182622-9212-11e6-94f2-298daca8f74d.png"></img>
  <br><br>
 Image 2
 </p>
-
 
 
