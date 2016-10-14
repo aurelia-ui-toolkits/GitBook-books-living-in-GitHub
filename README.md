@@ -6,7 +6,7 @@ This document is a part of Aurelia-Tools internal documentation library. It desc
 
 ***
 
-### 1. Create a new book 
+## 1. Create a new book 
 
 Point your browser to our GitBook main page:  https://www.gitbook.com/@aurelia-ui-toolkits and click on the **`+ NEW`** button (Image 1, below)
 
@@ -30,10 +30,10 @@ Image 2
 
 I also deleted the "Chapter 1" page that is a part of the template selected with the click on item tagged with red marker 1 on the Image 2 above. For this document, a single page is sufficient.
 
-Now, our book is created and can be accessed via URL https://aurelia-ui-toolkits.gitbooks.io/gitbooks-living-in-github/content/ and as the URL suggests, it is persisted on the **`gitbooks.io`** server - certainly not in GitHub.
+Now, our book is created and can be accessed via URL https://aurelia-ui-toolkits.gitbooks.io/gitbooks-living-in-github/details and as the URL suggests, it is persisted on the **`gitbooks.io`** server - not in GitHub.
 
-### 2. Transfer the book to GitHub
+## 2. Transfer the book to GitHub
 
-
+#### 2.1 Open the book 
 
 
