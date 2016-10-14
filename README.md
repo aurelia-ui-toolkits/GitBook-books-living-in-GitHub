@@ -36,4 +36,12 @@ Now, our book is created and can be accessed via URL https://aurelia-ui-toolkits
 
 #### 2.1 Open the book 
 
+Point your browser to https://aurelia-ui-toolkits.gitbooks.io/gitbooks-living-in-github/details and click on the **`SETTINGS`** link (Image 3 below)
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19400465/562aef14-9224-11e6-859b-c5deb50de2de.png"></img>
+ <br><br>
+Image 3
+</p>
+
 
