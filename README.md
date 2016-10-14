@@ -34,6 +34,15 @@ Now, our book is created and can be accessed via URL https://aurelia-ui-toolkits
 
 ## 2. Transfer the book to GitHub
 
+#### Summary of actions
+
+The summary of actions described [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html) - section **`Using the command line`**   is:
+
+- create the new repository in GitHub that should have the same or similar name to your current repository on GitBook, created as the consequence of the action in step **`1. Create a new book`** above.
+- get the **`git`** url of your GitBook book repository which is typically defined as **`https://git.gitbook.com/MyName/MyBook.git`**
+- -clone this book to your machine
+- push this local clone to the newly created GitHub based repository (with the intent to ovewrite that destination.
+
 #### 2.1 Open the book 
 
 Point your browser to https://aurelia-ui-toolkits.gitbooks.io/gitbooks-living-in-github/details and click on the **`SETTINGS`** link (Image 3 below)
@@ -48,13 +57,14 @@ Image 3
 
 #### 2.2 Create the empty repository on Github (new home for your book)
 
-This is the critical step that is not well explained in the existing documentation. The summary of actions described [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html) - section **`Using the command line`**   is:
+This is the critical step that is not well explained in the existing documentation. 
 
-- create the new repository in GitHub that should have the same or similar name to your current repository on GitBook, created as the consequence of the action in step **`1. Create a new book`** above.
-- get the **`git`** url of your GitBook book repository which is typically defined as **`https://git.gitbook.com/MyName/MyBook.git`**
-- -clone this book to your machine
-- push this local clone to the newly created GitHub based repository (with the intent to ovewrite that destination.
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19402678/6092d848-9230-11e6-96aa-cbd239860b31.png"></img>
+ <br><br>
+Image 4 
+</p>
 
-
+Click on **`Create repository`** buttom (marker 5, Image 4) results with the new GitHub repo with the URL https://github.com/aurelia-ui-toolkits/GitBook-books-living-in-GitHub
 
 
