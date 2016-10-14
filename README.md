@@ -1,6 +1,6 @@
 # GitBook books living in GitHub
 
-This document is a part of Aurelia-Tools internal documentation library.It describes the process of its own creation following this process (note that we avoid using GitBook desktop client tool)
+This document is a part of Aurelia-Tools internal documentation library.It describes the **process of its own creation** using only the browser to do it.
 
 ### 1. Create a new book 
 
