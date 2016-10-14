@@ -44,4 +44,17 @@ Point your browser to https://aurelia-ui-toolkits.gitbooks.io/gitbooks-living-in
 Image 3
 </p>
 
+<br>
+
+#### 2.2 Create the empty repository on Github (new home for your book)
+
+This is the critical step that is not well explained in the existing documentation. The summary of actions described [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html) - section **`Using the command line`**   is:
+
+- create the new repository in GitHub that should have the same or similar name to your current repository on GitBook, created as the consequence of the action in step **`1. Create a new book`** above.
+- get the **`git`** url of your GitBook book repository which is typically defined as **`https://git.gitbook.com/MyName/MyBook.git`**
+- -clone this book to your machine
+- push this local clone to the newly created GitHub based repository (with the intent to ovewrite that destination.
+
+
+
 
