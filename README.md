@@ -1,6 +1,10 @@
 # GitBook books living in GitHub
 
-This document is a part of Aurelia-Tools internal documentation library.It describes the **process of its own creation** using only the browser to do it.
+This document is a part of Aurelia-Tools internal documentation library. It describes the **process of its own creation** using only the browser to do it.
+
+#### If you already have a book in GitBook repository and want to transfer it to GitHub, start reading at section 2. below.
+
+***
 
 ### 1. Create a new book 
 
@@ -28,7 +32,7 @@ I also deleted the "Chapter 1" page that is a part of the template selected with
 
 Now, our book is created and can be accessed via URL https://aurelia-ui-toolkits.gitbooks.io/gitbooks-living-in-github/content/ and as the URL suggests, it is persisted on the **`gitbooks.io`** server - certainly not in GitHub.
 
-### 2 Transfer the book to GitHub
+### 2. Transfer the book to GitHub
 
 
 
