@@ -4,7 +4,7 @@ This document is a part of Aurelia-Tools internal documentation library.It descr
 
 ### 1. Create a new book 
 
-Point your browser to our GitBook main page:  https://www.gitbook.com/@aurelia-ui-toolkits and clock on the **`+ NEW`** button (Image 1, below)
+Point your browser to our GitBook main page:  https://www.gitbook.com/@aurelia-ui-toolkits and click on the **`+ NEW`** button (Image 1, below)
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/19396694/4cc8fdce-9212-11e6-8382-0f3da5d9f68e.png"></img>
